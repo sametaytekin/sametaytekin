@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm currently learning C# and Javascript
+
+Ask me anything on [Linkedin](https://www.linkedin.com/in/samet-halit-aytekin/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametaytekin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sametaytekin)](https://git.io/streak-stats)
+
+
+
 <!--
 **sametaytekin/sametaytekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
